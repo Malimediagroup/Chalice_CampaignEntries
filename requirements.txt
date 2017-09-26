@@ -1,0 +1,15 @@
+argparse==1.2.1
+boto3==1.4.3
+botocore==1.4.93
+chalice==0.5.1
+click==6.2
+distribute==0.6.24
+docutils==0.13.1
+futures==3.0.5
+jmespath==0.9.0
+python-dateutil==2.6.0
+s3transfer==0.1.10
+six==1.10.0
+typing==3.5.2.2
+virtualenv==15.1.0
+wsgiref==0.1.2
